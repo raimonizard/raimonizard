@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a teacher
 - 🌱 I’m currently learning GitHub, Notion, Python
-- 👯 I’m looking to collaborate on any project on which I could help
-- 🤔 I’m looking for help with sql projects
+- 👯 I’m looking to collaborate on sql
 - 💬 Ask me about sql or whatever :P
-- 📫 How to reach me: https://es.linkedin.com/in/raimonizard
+- 📫 How to reach me: https://es.linkedin.com/in/raimonizard & http://rai.cat/
