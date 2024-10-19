@@ -12,7 +12,7 @@
 - 💬 Ask me about [SQL](https://github.com/raimonizard/SQL "SQL personal repo for teaching purposes"), [Java](https://github.com/raimonizard/java "Java personal repo for teaching purposes") or whatever :P
 
 ---
-[![Raimon's GitHub stats](https://github-readme-stats.vercel.app/api?username=raimonizard)](https://github.com/anuraghazra/github-readme-stats)
+[![Raimon's GitHub stats](https://github-readme-stats.vercel.app/api?username=raimonizard)](https://github.com/anuraghazra/github-readme-stats) <img align="right" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimonizard&layout=compact" />
 
 ---
 
