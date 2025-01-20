@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Raimon! 👋
 
-- 🔭 I’m currently working as a VUE and Uni **teacher** and as a **freelance** data engineer
+- 🔭 I’m currently working as a **Vocational Education and Training (VET) Instructor** *(called CFGS or FP2 in Spain)*, uni **teacher** and as a **freelance** data engineer
 - 🌱 I’m learning and intereseted in [micro:bit](https://makecode.microbit.org/ "MakeCode micro:bit"), Git, [GitHub](https://github.com/ "GitHub"), Notion, Python, Markdown, Kotlin, Google Collab, PHP, Jetpack Compose for Android...
 - 👯 I’m looking forward to collaborate in SQL or other languages
 - :bookmark_tabs: Check out my [Gists aticles](https://gist.github.com/raimonizard "Raimon Izard articles at Gist")
@@ -13,6 +13,12 @@
 
 ---
 [![Raimon's GitHub stats](https://github-readme-stats.vercel.app/api?username=raimonizard)](https://github.com/anuraghazra/github-readme-stats) <img align="right" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimonizard&layout=compact" />
+
+---
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=raimonizard&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 ---
 
